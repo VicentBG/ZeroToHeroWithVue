@@ -16,6 +16,6 @@
     "babel-preset-env": "^1.7.0",
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-vue": "^1.5.0",
-    "vue": "^2.5.17"
+    "vue": "^3.0.0"
   }
 }
